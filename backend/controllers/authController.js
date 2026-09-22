@@ -25,7 +25,7 @@ const buildResetCodeEmail = (code) => `
 <div style="background-color: #f4f6fa; padding: 40px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <div style="max-width: 460px; margin: 0 auto; background-color: #ffffff; border-radius: 16px; overflow: hidden; border: 1px solid #e2e8f0; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.03);">
     <div style="padding: 40px 32px 24px; text-align: center;">
-      <h1 style="color: #0f172a; font-size: 26px; font-weight: 700; margin: 0;">CapBudget</h1>
+      <h1 style="color: #0f172a; font-size: 26px; font-weight: 700; margin: 0;">FinSpirit</h1>
       <p style="color: #64748b; font-size: 14px; margin: 8px 0 0;">Réinitialisation de mot de passe</p>
     </div>
     <div style="padding: 0 32px 32px; color: #334155; font-size: 15px; line-height: 1.6;">
