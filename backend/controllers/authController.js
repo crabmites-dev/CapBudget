@@ -38,7 +38,7 @@ const buildResetCodeEmail = (code) => `
       </div>
       <p style="font-size: 13px; color: #94a3b8;">Si vous n'êtes pas à l'origine de cette demande, ignorez cet e-mail.</p>
       <p style="font-size: 14px; margin-top: 28px; border-top: 1px solid #f1f5f9; padding-top: 20px; color: #64748b;">
-        Bien cordialement,<br><strong style="color: #0f172a;">L'équipe CapBudget</strong>
+        Bien cordialement,<br><strong style="color: #0f172a;">L'équipe FinSpirit</strong>
       </p>
     </div>
   </div>
