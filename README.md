@@ -6,7 +6,7 @@ L'application est pensée pour un usage en **FCFA** et propose une interface mod
 
 ---
 
-## Sommaire
+## Sommaire 
 
 - [Fonctionnalités](#fonctionnalités)
 - [Stack technique](#stack-technique)
